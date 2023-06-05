@@ -40,8 +40,8 @@ Join Salt's Discord Themes server: https://discord.gg/uy8nKQVatp
 }
 #app-mount [data-list-item-id="guildsnav___home"]>div {
 	content: url('https://raw.githubusercontent.com/NotGod15/piOS_Discord_theme_with_icon/main/Asset/Icons/SEIGOS.png'); /* Changeable Icon. Format: url('Your_Uploaded_IMG_path') */
-	width: 49px;
-	height: 49px;
+	width: 53px;
+	height: 53px;
   	animation-name: none;
 											/* Spin animation, Values: spin(on) or none(off) */
 }
